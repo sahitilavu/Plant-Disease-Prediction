@@ -1,0 +1,7 @@
+tensorflow
+tensorflow_addons
+numpy
+pillow
+tensorflow_hub
+torch
+TensorRt
